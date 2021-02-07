@@ -7,7 +7,7 @@ export class AppService {
 
   getHello(): string {
 
-    return '!!Hello Mel!!return !!Hello Mel!! CLEAR SOME DATA' + (this.a + this.b)*2;
+    return '18.50:  ' + (this.a + this.b)*2;
   }
 
 }
